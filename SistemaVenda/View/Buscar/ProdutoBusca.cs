@@ -61,5 +61,10 @@ namespace SistemaVenda.Forms
                 dataGridView1.DataSource = null;
             }
         }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

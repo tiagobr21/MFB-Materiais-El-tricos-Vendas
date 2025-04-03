@@ -1,5 +1,5 @@
 {
     "ConnectionStrings": {
-        "Default": "LOCALHOSTIAGO\\SQLEXPRESS01;Database=master;Trusted_Connection=True;"
+        "Default": "10.58.64.215,1433\\SQLEXPRESS01;Database=master;Trusted_Connection=True;"
     }
 }

@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WindowsForms\\MFB-Materiais-El-tricos-Vendas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55705A57-D121-4975-AA8A-9EFC78C5BE1D}|SistemaVenda\\SistemaVenda.csproj|c:\\windowsforms\\mfb-materiais-el-tricos-vendas\\sistemavenda\\view\\buscar\\produtobusca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55705A57-D121-4975-AA8A-9EFC78C5BE1D}|SistemaVenda\\SistemaVenda.csproj|solutionrelative:sistemavenda\\view\\buscar\\produtobusca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55705A57-D121-4975-AA8A-9EFC78C5BE1D}|SistemaVenda\\SistemaVenda.csproj|c:\\windowsforms\\mfb-materiais-el-tricos-vendas\\sistemavenda\\view\\buscar\\produtobusca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55705A57-D121-4975-AA8A-9EFC78C5BE1D}|SistemaVenda\\SistemaVenda.csproj|solutionrelative:sistemavenda\\view\\buscar\\produtobusca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55705A57-D121-4975-AA8A-9EFC78C5BE1D}|SistemaVenda\\SistemaVenda.csproj|c:\\windowsforms\\mfb-materiais-el-tricos-vendas\\sistemavenda\\dal\\vendadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55705A57-D121-4975-AA8A-9EFC78C5BE1D}|SistemaVenda\\SistemaVenda.csproj|solutionrelative:sistemavenda\\dal\\vendadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55705A57-D121-4975-AA8A-9EFC78C5BE1D}|SistemaVenda\\SistemaVenda.csproj|c:\\windowsforms\\mfb-materiais-el-tricos-vendas\\sistemavenda\\view\\listar\\listarvendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55705A57-D121-4975-AA8A-9EFC78C5BE1D}|SistemaVenda\\SistemaVenda.csproj|solutionrelative:sistemavenda\\view\\listar\\listarvendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55705A57-D121-4975-AA8A-9EFC78C5BE1D}|SistemaVenda\\SistemaVenda.csproj|c:\\windowsforms\\mfb-materiais-el-tricos-vendas\\sistemavenda\\view\\gerenciar\\gerenciarvendas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55705A57-D121-4975-AA8A-9EFC78C5BE1D}|SistemaVenda\\SistemaVenda.csproj|solutionrelative:sistemavenda\\view\\gerenciar\\gerenciarvendas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55705A57-D121-4975-AA8A-9EFC78C5BE1D}|SistemaVenda\\SistemaVenda.csproj|c:\\windowsforms\\mfb-materiais-el-tricos-vendas\\sistemavenda\\view\\gerenciar\\gerenciarvendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55705A57-D121-4975-AA8A-9EFC78C5BE1D}|SistemaVenda\\SistemaVenda.csproj|solutionrelative:sistemavenda\\view\\gerenciar\\gerenciarvendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55705A57-D121-4975-AA8A-9EFC78C5BE1D}|SistemaVenda\\SistemaVenda.csproj|c:\\windowsforms\\mfb-materiais-el-tricos-vendas\\sistemavenda\\view\\gerenciar\\gerenciarvendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55705A57-D121-4975-AA8A-9EFC78C5BE1D}|SistemaVenda\\SistemaVenda.csproj|solutionrelative:sistemavenda\\view\\gerenciar\\gerenciarvendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55705A57-D121-4975-AA8A-9EFC78C5BE1D}|SistemaVenda\\SistemaVenda.csproj|c:\\windowsforms\\mfb-materiais-el-tricos-vendas\\sistemavenda\\view\\listar\\listarvendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55705A57-D121-4975-AA8A-9EFC78C5BE1D}|SistemaVenda\\SistemaVenda.csproj|solutionrelative:sistemavenda\\view\\listar\\listarvendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55705A57-D121-4975-AA8A-9EFC78C5BE1D}|SistemaVenda\\SistemaVenda.csproj|c:\\windowsforms\\mfb-materiais-el-tricos-vendas\\sistemavenda\\view\\listar\\listarvendas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55705A57-D121-4975-AA8A-9EFC78C5BE1D}|SistemaVenda\\SistemaVenda.csproj|solutionrelative:sistemavenda\\view\\listar\\listarvendas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55705A57-D121-4975-AA8A-9EFC78C5BE1D}|SistemaVenda\\SistemaVenda.csproj|c:\\windowsforms\\mfb-materiais-el-tricos-vendas\\sistemavenda\\view\\buscar\\clientebusca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55705A57-D121-4975-AA8A-9EFC78C5BE1D}|SistemaVenda\\SistemaVenda.csproj|solutionrelative:sistemavenda\\view\\buscar\\clientebusca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClienteBusca.cs [Projeto]",
+              "DocumentMoniker": "C:\\WindowsForms\\MFB-Materiais-El-tricos-Vendas\\SistemaVenda\\View\\Buscar\\ClienteBusca.cs",
+              "RelativeDocumentMoniker": "SistemaVenda\\View\\Buscar\\ClienteBusca.cs",
+              "ToolTip": "C:\\WindowsForms\\MFB-Materiais-El-tricos-Vendas\\SistemaVenda\\View\\Buscar\\ClienteBusca.cs [Projeto]",
+              "RelativeToolTip": "SistemaVenda\\View\\Buscar\\ClienteBusca.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:16:01.718Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoBusca.cs",
+              "DocumentMoniker": "C:\\WindowsForms\\MFB-Materiais-El-tricos-Vendas\\SistemaVenda\\View\\Buscar\\ProdutoBusca.cs",
+              "RelativeDocumentMoniker": "SistemaVenda\\View\\Buscar\\ProdutoBusca.cs",
+              "ToolTip": "C:\\WindowsForms\\MFB-Materiais-El-tricos-Vendas\\SistemaVenda\\View\\Buscar\\ProdutoBusca.cs",
+              "RelativeToolTip": "SistemaVenda\\View\\Buscar\\ProdutoBusca.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAEwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:11:43.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoBusca.cs [Projeto]",
+              "DocumentMoniker": "C:\\WindowsForms\\MFB-Materiais-El-tricos-Vendas\\SistemaVenda\\View\\Buscar\\ProdutoBusca.cs",
+              "RelativeDocumentMoniker": "SistemaVenda\\View\\Buscar\\ProdutoBusca.cs",
+              "ToolTip": "C:\\WindowsForms\\MFB-Materiais-El-tricos-Vendas\\SistemaVenda\\View\\Buscar\\ProdutoBusca.cs [Projeto]",
+              "RelativeToolTip": "SistemaVenda\\View\\Buscar\\ProdutoBusca.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:11:40.902Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vendaDal.cs",
+              "DocumentMoniker": "C:\\WindowsForms\\MFB-Materiais-El-tricos-Vendas\\SistemaVenda\\Dal\\vendaDal.cs",
+              "RelativeDocumentMoniker": "SistemaVenda\\Dal\\vendaDal.cs",
+              "ToolTip": "C:\\WindowsForms\\MFB-Materiais-El-tricos-Vendas\\SistemaVenda\\Dal\\vendaDal.cs",
+              "RelativeToolTip": "SistemaVenda\\Dal\\vendaDal.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:41:51.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListarVendas.cs",
+              "DocumentMoniker": "C:\\WindowsForms\\MFB-Materiais-El-tricos-Vendas\\SistemaVenda\\View\\Listar\\ListarVendas.cs",
+              "RelativeDocumentMoniker": "SistemaVenda\\View\\Listar\\ListarVendas.cs",
+              "ToolTip": "C:\\WindowsForms\\MFB-Materiais-El-tricos-Vendas\\SistemaVenda\\View\\Listar\\ListarVendas.cs",
+              "RelativeToolTip": "SistemaVenda\\View\\Listar\\ListarVendas.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADgvyYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:41:22.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GerenciarVendas.Designer.cs",
+              "DocumentMoniker": "C:\\WindowsForms\\MFB-Materiais-El-tricos-Vendas\\SistemaVenda\\View\\Gerenciar\\GerenciarVendas.Designer.cs",
+              "RelativeDocumentMoniker": "SistemaVenda\\View\\Gerenciar\\GerenciarVendas.Designer.cs",
+              "ToolTip": "C:\\WindowsForms\\MFB-Materiais-El-tricos-Vendas\\SistemaVenda\\View\\Gerenciar\\GerenciarVendas.Designer.cs",
+              "RelativeToolTip": "SistemaVenda\\View\\Gerenciar\\GerenciarVendas.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:41:13.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GerenciarVendas.cs",
+              "DocumentMoniker": "C:\\WindowsForms\\MFB-Materiais-El-tricos-Vendas\\SistemaVenda\\View\\Gerenciar\\GerenciarVendas.cs",
+              "RelativeDocumentMoniker": "SistemaVenda\\View\\Gerenciar\\GerenciarVendas.cs",
+              "ToolTip": "C:\\WindowsForms\\MFB-Materiais-El-tricos-Vendas\\SistemaVenda\\View\\Gerenciar\\GerenciarVendas.cs",
+              "RelativeToolTip": "SistemaVenda\\View\\Gerenciar\\GerenciarVendas.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAawDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:38:05.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GerenciarVendas.cs [Projeto]",
+              "DocumentMoniker": "C:\\WindowsForms\\MFB-Materiais-El-tricos-Vendas\\SistemaVenda\\View\\Gerenciar\\GerenciarVendas.cs",
+              "RelativeDocumentMoniker": "SistemaVenda\\View\\Gerenciar\\GerenciarVendas.cs",
+              "ToolTip": "C:\\WindowsForms\\MFB-Materiais-El-tricos-Vendas\\SistemaVenda\\View\\Gerenciar\\GerenciarVendas.cs [Projeto]",
+              "RelativeToolTip": "SistemaVenda\\View\\Gerenciar\\GerenciarVendas.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:38:03.273Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListarVendas.cs [Projeto]",
+              "DocumentMoniker": "C:\\WindowsForms\\MFB-Materiais-El-tricos-Vendas\\SistemaVenda\\View\\Listar\\ListarVendas.cs",
+              "RelativeDocumentMoniker": "SistemaVenda\\View\\Listar\\ListarVendas.cs",
+              "ToolTip": "C:\\WindowsForms\\MFB-Materiais-El-tricos-Vendas\\SistemaVenda\\View\\Listar\\ListarVendas.cs [Projeto]",
+              "RelativeToolTip": "SistemaVenda\\View\\Listar\\ListarVendas.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:31:35.592Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ListarVendas.Designer.cs",
+              "DocumentMoniker": "C:\\WindowsForms\\MFB-Materiais-El-tricos-Vendas\\SistemaVenda\\View\\Listar\\ListarVendas.Designer.cs",
+              "RelativeDocumentMoniker": "SistemaVenda\\View\\Listar\\ListarVendas.Designer.cs",
+              "ToolTip": "C:\\WindowsForms\\MFB-Materiais-El-tricos-Vendas\\SistemaVenda\\View\\Listar\\ListarVendas.Designer.cs",
+              "RelativeToolTip": "SistemaVenda\\View\\Listar\\ListarVendas.Designer.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAIAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:53:51.876Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

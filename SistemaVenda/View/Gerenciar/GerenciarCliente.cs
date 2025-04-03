@@ -23,6 +23,7 @@ namespace SistemaVenda
         {
             FormCliente cadastro = new FormCliente();
             cadastro.ExibirCentralizadoMenuCadastro();
+
         }
 
         private void GerenciarCliente_Load(object sender, EventArgs e)
