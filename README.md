@@ -13,9 +13,4 @@
   - Após criar, pegue o script sql para criar as tabelas da base de dados -> MBF_Vendas.sql . Cole e Execute o script
   - No projeto, no arquivo App.config configure a conexão com o com banco de dados:
 
-    <?xml version="1.0" encoding="utf-8" ?>
-     <configuration>
-     	<connectionStrings>
-     		<add name="connstring" connectionString="Server=10.58.64.215,1433;Database=MBF_Vendas;User Id=sa;Password=Bondade07!;TrustServerCertificate=True;"/>
-     	</connectionStrings>
-     </configuration> 
+  <add name="connstring" connectionString="Server=10.58.64.215,1433;Database=MBF_Vendas;User Id=sa;Password=Bondade07!;TrustServerCertificate=True;"/>
