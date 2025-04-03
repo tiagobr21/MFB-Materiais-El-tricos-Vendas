@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\View",
+    "\\View\\Atualizar",
+    "\\View\\Deletar",
+    "\\View\\Form",
+    "\\View\\Gerenciar",
+    "\\View\\Listar",
+    "\\View\\Painel"
+  ],
+  "SelectedNode": "\\View\\Atualizar\\AtualizarCliente.cs",
+  "PreviewInSolutionExplorer": false
+}
