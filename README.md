@@ -1,17 +1,26 @@
-# Basic Sales Management System in C#
+# Desafio Amazonas Inovare
 
-This project is a straightforward implementation of a sales management system in C#. It offers essential CRUD (Create, Read, Update, Delete) functionalities for overseeing sales transactions, managing products, and handling customer information.
+* Passo a passo para rodar o sistema:
 
-## Features
+  * pré-requisitos :
+    - Visual Studio 2022
+    - .NET 6.0
+    - Sql Server 2022
+    - SQL Server Management Studio (SSMS) 20.2
 
-1. **Add Sale**: Allows users to record a new sale transaction.
-2. **View All Sales**: Provides a comprehensive list of all recorded sales transactions.
-3. **Search Sale**: Enables users to find specific sales transactions based on id.
-4. **Update Sale**: Allows users to modify existing sale transaction details, such as name, description, value or the quantity.
-5. **Delete Sale**: Enables users to remove a recorded sale transaction from the system. If a sale contains products or customers that the user attempts to delete, the system notifies the user that the product/customer is associated with a sale and prevents deletion.
-
-## Technologies Used
-
-- **C#**: The primary programming language used for the application logic and interface.
-- **SQL Server**: Utilized for database management, storing and retrieving sales transaction data, product information, and customer details.
-- **Windows Forms**: Employed for creating the graphical user interface (GUI) of the application, facilitating user interaction.
+* Banco de dados
+  - Entrando no seu Serviço Sql server no Sql Server Management,Vé me nova consulta e Crie um banco de dados chamado MBF_Vendas: **CREATE DATABASE MBF_Vendas;**
+  - Após criar, pegue o script sql para criar as tabelas da base de dados -> MBF_Vendas.sql . Cole e Execute o script
+  - No projeto, no arquivo App.config configure a conexão com o com banco de dados, dentro de connectionString:
+    Server=SEUHOST;Database=MBF_Vendas;User Id=sa;Password=SUASENHA;TrustServerCertificate=True;
+    
+* Como usar o sistema.
+   - Primeiramente deve-se fazer o cadastro do sistema: Nome, Senha e Papel
+   - De inicio informe "Vendedor" no papel
+   - Faça Login
+   - No Menu incial:
+      -  faça o cadastro de um cliente
+      -  faça o cadastro de um produto
+      -  faça uma venda usando o Id do cliente , Id do produto e informe a quantidade
+   - O sistema fornece um Crud para listar, atualizar e deletar Clientes, Produtos e Vendas.
+   - O papel Gerente foi criado para poder Gerenciar os Vendedores onde possui um CRUD.     
